@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
-def testCode() {
+def testJar() {
     echo "This is the shared library"
 }
