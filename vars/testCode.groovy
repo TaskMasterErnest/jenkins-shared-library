@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
-def call() {
+def testCode() {
     echo "This is the shared library"
 }
